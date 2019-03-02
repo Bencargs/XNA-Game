@@ -1,0 +1,6 @@
+C:\Users\Ben\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\AdelaideSingle.xnb
+C:\Users\Ben\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+C:\Users\Ben\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+C:\Users\Ben\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+C:\Users\Ben\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
